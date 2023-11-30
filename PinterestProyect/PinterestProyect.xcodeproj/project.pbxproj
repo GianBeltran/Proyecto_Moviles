@@ -254,16 +254,16 @@
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastSwiftUpdateCheck = 1420;
-				LastUpgradeCheck = 1420;
+				LastSwiftUpdateCheck = 1250;
+				LastUpgradeCheck = 1250;
 				TargetAttributes = {
 					79F7AB712AE4759500C9C375 = {
-						CreatedOnToolsVersion = 14.2;
+						CreatedOnToolsVersion = 12.5;
 					};
 				};
 			};
 			buildConfigurationList = 79F7AB6D2AE4759500C9C375 /* Build configuration list for PBXProject "PinterestProyect" */;
-			compatibilityVersion = "Xcode 14.0";
+			compatibilityVersion = "Xcode 12.5";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
